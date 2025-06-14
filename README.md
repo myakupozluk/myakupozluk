@@ -23,7 +23,4 @@ I am a intermediate game developer. I'm working on "Jump Or Die!" now.
 
 <img src="https://profile-counter.glitch.me/myakupozluk/count.svg?" alt="visitors count" />
 
-## GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=myakupozluk" alt="trophy" />
 
