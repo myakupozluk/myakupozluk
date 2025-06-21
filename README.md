@@ -1,7 +1,7 @@
 # Hello 👋, I'm Muhammed Yakup Özlük
 ### Backend Developer
 
-I am a intermediate game developer. I'm working on "Jump Or Die!" now.
+I am a intermediate game developer. I'm learning OpenGL and Kotlin now.
 
 ## Skills
 
