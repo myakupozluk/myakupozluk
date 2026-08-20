@@ -17,4 +17,4 @@ I am a 10th-grade student passionate about **embedded systems** and **low-level 
 ---
 
 ### 📈 GitHub Stats
-![Risotto's GitHub stats](https://github-readme-stats.vercel.app/api?username=myakupozluk&show_icons=true&theme=transparent)
+[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=myakupozluk)](https://github.com/myakupozluk/github-readme-profile)
