@@ -1,40 +1,20 @@
-<div align="center">
+# Hi there, I'm Yakup 👋
 
-<h1>Muhammed Yakup</h1>
+I am a 10th-grade student passionate about **embedded systems** and **low-level programming**. I enjoy diving deep into how software interacts with hardware at the lowest levels.
 
-<h2><code>systems, backend, and game development</code></h2>
+---
 
-<h3>
-  <a href="https://myakupozluk.tech">portfolio</a>
-  ·
-  <a href="https://github.com/myakupozluk">github</a>
-</h3>
+### 💻 My Tech Stack
+* **Languages:** C, C++, C#, Python, Assembly
+* **Interests:** Embedded Systems, Bare-Metal Programming, OS Development, Firmware
+* **Hardware:** Currently developing on Raspberry Pi 5
 
-<h3>i am focused on game development.</h3>
+---
 
-<h3>i can also build qt applications.</h3>
+### 🚀 Current Project
+* **[RisottOs](https://github.com/myakupozluk/RisottOs):** A custom bare-metal operating system built from scratch for the Raspberry Pi 5.
 
-<h2>stack</h2>
+---
 
-<h3>
-  <code>c</code>
-  <code>c++</code>
-  <code>roblox studio</code>
-  <code>lua</code>
-  <code>python</code>
-  <code>assembly</code>
-  <code>c#</code>
-</h3>
-
-<h2>focus</h2>
-
-<h3>c/c++ fundamentals and systems programming</h3>
-<h3>qt apps with c++</h3>
-<h3>roblox game systems and gameplay development</h3>
-<h3>games with c# unity</h3>
-
-<br>
-
-<h3><code>simple tools, clean interfaces, solid fundamentals</code></h3>
-
-</div>
+### 📈 GitHub Stats
+![Risotto's GitHub stats](https://github-readme-stats.vercel.app/api?username=myakupozluk&show_icons=true&theme=transparent)
